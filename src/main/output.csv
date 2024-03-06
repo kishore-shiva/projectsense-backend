@@ -1,0 +1,6 @@
+"URL","Security"
+"https://fareast.com.sg","Imperva,HSTS,"
+"https://sembcorp.com","Umbraco,","Microsoft ASP.NET,","HSTS,","Cloudflare,"
+"https://chowking.com","PHP,","Cloudflare,","HTTP/3,"
+"https://a-star.edu.sg","Microsoft ASP.NET,","Amazon Web Services,","Snowplow Analytics,Google Analytics,","Linkedin Ads,","HSTS,","Amazon CloudFront,","Azure Edge Network,"
+"https://sminvestments.com"
